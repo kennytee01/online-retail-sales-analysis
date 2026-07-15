@@ -31,7 +31,7 @@ Cleaning logic was built and executed in PostgreSQL.
 - Removed negative unit prices (invalid); kept £0 prices (likely free/promotional items)
 - Negative quantities kept — these represent cancelled orders (InvoiceNo starting with "C") and are needed for cancellation-rate analysis; excluded only when calculating revenue
 
-Full logic: [`/sql/01_data_cleaning.sql`](./sql/01_data_cleaning.sql)
+Full logic: [`/sql/01_data_cleaning.sql`](01_data_cleaning.sql)
 
 ## Analysis Approach
 
