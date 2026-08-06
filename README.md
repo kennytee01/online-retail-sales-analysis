@@ -68,7 +68,7 @@ DOTCOM POSTAGE initially appeared as the top "product" by revenue — a shipping
 ## Dashboard
 
 **Page 1 — Executive Summary**
-![Executive Summary](screenshots01_executive_summary.png)
+
 
 **Page 2 — Sales Performance Overview**
 ![Sales Performance Overview](screenshots02_sales_performance.png)
