@@ -71,10 +71,10 @@ DOTCOM POSTAGE initially appeared as the top "product" by revenue — a shipping
 
 
 **Page 2 — Sales Performance Overview**
-![Sales Performance Overview](sales_performance.png)
+![Sales Performance Overview](sales_performances.png)
 
 **Page 3 — Customer & Product Analysis**
-![Customer & Product Analysis](customer_product.png)
+![Customer & Product Analysis](customers_product.png)
 
 **Page 4 — Order & Business Insights**
 ![Order & Business Insights](order_business_insights.png)
@@ -99,7 +99,7 @@ online-retail-sales-analysis/
 │   └── Online_Retail_project.pbix
 └── screenshots/
     ├── 01_executive_summary.png
-    ├── 02_sales_performance.png
-    ├── 03_customer_product.png
+    ├── 02_sales_performances.png
+    ├── 03_customers_product.png
     └── 04_order_business_insights.png
 ```
