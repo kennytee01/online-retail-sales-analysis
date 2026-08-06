@@ -66,6 +66,18 @@ Cancellation rate sits under 2%, which is healthy for online retail. Recommend m
 DOTCOM POSTAGE initially appeared as the top "product" by revenue — a shipping charge, not a product. Recommend any stocking or merchandising analysis explicitly filters out non-product line items to avoid skewed decisions (already corrected in this dashboard).
 
 ## Dashboard
+**Page 1 — Executive Summary**
+![Executive Summary](executive_summary.png)
+
+
+**Page 2 — Sales Performance Overview**
+![Sales Performance Overview](sales_performance.png)
+
+**Page 3 — Customer & Product Analysis**
+![Customer & Product Analysis](customer_product.png)
+
+**Page 4 — Order & Business Insights**
+![Order & Business Insights](order_business_insights.png)
 
 
 ## Limitations
